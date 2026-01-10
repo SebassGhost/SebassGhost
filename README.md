@@ -1,16 +1,17 @@
-## Hi there 👋
+Hola, soy Sebas 
+Estudiante de ciberseguridad enfocado en:
+- Pentesting
+- Recon & OSINT
+- Automatización con Python
 
-<!--
-**SebassGhost/SebassGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Proyectos destacados:
+- Toolkit-Recon → Framework modular de reconnaissance
+- password-manager-cli
 
-Here are some ideas to get you started:
+ En aprendizaje constante:
+- Arquitectura de herramientas ofensivas
+- OSINT avanzado
+- Networking & protocolos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ética:
+Todo mi trabajo es educativo y autorizado
