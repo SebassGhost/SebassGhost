@@ -53,6 +53,7 @@ Framework modular de reconnaissance y OSINT para pentesting educativo.
  -Controles y seguridad informática 
  
  -Bases de datos generalidades y sistemas de gestión 
+ 
 ---
 
 ## Ética
