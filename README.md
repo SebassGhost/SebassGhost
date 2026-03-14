@@ -35,11 +35,11 @@ Investigación en aprendizaje emergente y sistemas multi-agente
 
 Relacionados con campos como:
 
-Cybersecurity
+-Cybersecurity
 
-Artificial Intelligence
+-Artificial Intelligence
 
-Evolutionary Computation
+-Evolutionary Computation
 
 Experiencia práctica
 
